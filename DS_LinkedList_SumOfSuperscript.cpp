@@ -1,7 +1,7 @@
 //Xây dựng danh sách liên kết đơn. Nhập x, n tạo thành danh sách liên kết( Mỗi nút có 2 giá trị x và i, i chạy từ 1 -> n)
 //s(x,n) = x^1 + x^2 + x^3 + ... + x^n
 //Viết hàm xuất ra tổng các phần tử trong danh sách liên kết.
-
+// 21/10/2021 - Testing Changes proposal
 
 #include <iostream>
 using namespace std;
